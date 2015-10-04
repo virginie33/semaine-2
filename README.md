@@ -3,7 +3,7 @@ voici le lien , de mon code code academy que je compte encore approfondire, afin
 
 le lien : https://www.codecademy.com/fr/users/teraPlayer35995/achievements
 
-ainsi que le lien de mes certification :
+ainsi que le lien de mes certifications :
 
 https://openclassrooms.com/course-certificates/55593109
 

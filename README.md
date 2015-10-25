@@ -2,6 +2,8 @@
 voici le lien , de mon code code academy que je compte encore approfondire, afin de prouver ma motivation et l'envie d'apprendre a coder
 
 le lien : https://www.codecademy.com/fr/users/teraPlayer35995/achievements
+ et le lien de free code camp http://freecodecamp.com/map
+
 
 ainsi que le lien de mes certifications :
 
